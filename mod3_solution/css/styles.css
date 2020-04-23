@@ -1,0 +1,59 @@
+body{
+  font-family: 'Dancing Script', cursive;
+  background: #33c6f2;
+}
+.navbar-brand h2{
+
+  margin-top: 10px;
+  /* padding-left: 1px; */
+  position: absolute;
+  left: 20px;
+  top:10px;
+  font-size: 71px;
+  text-shadow: 0px 1px 2px #2d5dfa;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar{
+  background-color: #0ae0f0;
+}
+.navbar .navbar-header{
+  height: 100px;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+/*END HEADER HERE*/
+
+/*START HOME PAGE*/
+
+h3{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#main-section p{
+  text-align: center;
+  font-weight: 500;
+  margin: 10px 10px 15px 10px;
+}
+.container #main-section{
+  background: #2c9ae8;
+  font-size: 1.1em;
+  box-shadow: 6px 6px 6px #0562a3;
+
+}
+#top-heading{
+  font-size: 70px;
+
+}
+/*END HOME PAGE*/
